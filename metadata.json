@@ -1,0 +1,6 @@
+{
+  "name": "Operations Menu",
+  "description": "A Call of Duty Black Ops 1 styled main menu interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
